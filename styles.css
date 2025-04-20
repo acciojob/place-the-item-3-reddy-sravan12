@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+.header{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
